@@ -29,7 +29,7 @@ This is a basic implementation, but my goal is to gradually add functionality un
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/badreOuchida/microtorch
    ```
 2. Install dependencies:
    ```bash
